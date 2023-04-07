@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Roboto", sans-serif;
+  background: ;
+  font-size: 16px;
+  line-height: 1.5;
+  background: #ebeffb;
+  color: #8698b3;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #232c39;
+}
+a {
+  color: #0070f3;
+}
